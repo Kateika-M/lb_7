@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lb7_2.dir/main.cpp.o -o lb7_2 
